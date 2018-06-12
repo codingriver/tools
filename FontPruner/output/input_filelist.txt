@@ -1,0 +1,3 @@
+input\3500character.txt
+input\other.txt
+input\unChineseOutPut.txt

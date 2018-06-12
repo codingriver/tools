@@ -1,0 +1,1 @@
+python FontPruner.py --inputPath=input --inputFont=FZZYJT.TTF --tempPath=output
